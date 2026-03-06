@@ -14,6 +14,6 @@ Inicio
       
       m<- (p1+p2+p3)/3
       
-      escreval("Com base nos valores dados por você, o valor médio da gasolina nesses três postos de Salvador é ",m)
+      escreval("Com base nos valores dados por vocÃª, o valor mÃ©dio da gasolina nesses trÃªs postos de Salvador Ã© ",m)
       
 Fimalgoritmo
