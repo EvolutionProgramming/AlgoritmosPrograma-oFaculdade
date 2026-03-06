@@ -7,11 +7,11 @@ Var
    percentual:real
 
 Inicio
-      escreval("Digite o total de fitas que você tem no acervo")
+      escreval("Digite o total de fitas que vocÃª tem no acervo")
       leia (acervo)
       escreval("Quantas fitas possuem na loja da Pituba?")
       leia (loja1)
-      escreval("Quantas fitas possuem na loja de Itapuã?")
+      escreval("Quantas fitas possuem na loja de ItapuÃ£?")
       leia (loja2)
       
       acervo_unit<- acervo/2
@@ -20,7 +20,7 @@ Inicio
       percentual<- ((dif1+dif2)/acervo)*100
       
       escreval("Loja da Pituba alugou: ",dif1)
-      escreval("Loja de Itapuã alugou: ",dif2)
+      escreval("Loja de ItapuÃ£ alugou: ",dif2)
       escreval("Porcentagem total: ",percentual)
 
 Fimalgoritmo
